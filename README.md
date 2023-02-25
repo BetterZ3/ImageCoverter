@@ -1,9 +1,3 @@
-# ImageCoverter
-
-## ImageCoverter的ChagtGPT指令
-
-请查看gpt.txt
-
 ## 小红薯
 
 https://www.xiaohongshu.com/user/profile/63cd23d700000000260135a8?xhsshare=WeixinSession&appuid=63cd23d700000000260135a8&apptime=1677305775
